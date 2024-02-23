@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706163146 source:c:\users\admin\documents\c\bt-atan\bt11\main.c
+	<stdio.h>
+	<stdlib.h>
+
